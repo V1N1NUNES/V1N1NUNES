@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Opaa, tudo bem?!<br><br>Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas(ADS) na universidade Católica de Brasília(UCB).<br><br>Atualmente estudo e crio alguns projetos Back-end que resolvem alguns problemas simples de rotina. Desenvolvo principalmente nas linguagens C e Java para Back-end e Html, Css e JavaScript para o Front-end.<br><br>Meu objetivo é me desenvolver como  um desenvolvedor Full-Stack e me tornar um profissional competitivo no mercado. Sempre com vontade de aprender e fazer a diferença aonde eu estiver. <br><br>Fique a vontade para dar uma olhada nos projetos que estou desenvolvendo atualmente e aqueles que ja estão prontos. <br><br><br>Qualquer dúvida, sugestão ou colaboração, não hesite em perguntar ou entrar em contato.😉</p>
+<p align="left">Opaa, tudo bem?!<br><br>Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas(ADS) na universidade Católica de Brasília(UCB).<br><br>Atualmente estudo e crio alguns projetos Back-end que resolvem alguns problemas simples de rotina. Desenvolvo principalmente nas linguagens C, Java e Node.js Java para Back-end e JavaScript com alguns frameworks para o Front-end.<br><br>Meu objetivo é me desenvolver como um programador Full-Stack com profissionalização no Backend e me tornar um profissional competitivo no mercado. Sempre com vontade de aprender e fazer a diferença aonde eu estiver. <br><br>Fique a vontade para dar uma olhada nos projetos que estou desenvolvendo atualmente e aqueles que ja estão prontos. <br><br><br>Qualquer dúvida, sugestão ou colaboração, não hesite em perguntar ou entrar em contato.😉</p>
 
 ###
 

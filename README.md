@@ -47,13 +47,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/v1n1nu3s-dev" target="_blank">
+  <a href="[Vinicius Costa Nunes](https://www.linkedin.com/in/v1n1nu3s-dev)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/vininunes.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="www.gmail.com/vinicius.nuneswork@gmail.com" target="_blank">
+  <a href="mailto:vinicius.nuneswork@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>

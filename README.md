@@ -1,57 +1,51 @@
-<h1 align="left">Sobre mim</h1>
+<h1 align="center">👨🏾‍💻Vinícius Nunes</h1>
 
 ###
 
-<p align="left">Opaa, tudo bem?!<br><br>Meu nome é Vinícius, sou estudante de Análise e Desenvolvimento de Sistemas(ADS) na universidade Católica de Brasília(UCB).<br><br>Atualmente estudo e crio alguns projetos Back-end que resolvem alguns problemas simples de rotina. Desenvolvo principalmente nas linguagens C, Java e Node.js Java para Back-end e JavaScript com alguns frameworks para o Front-end.<br><br>Meu objetivo é me desenvolver como um programador Full-Stack com profissionalização no Backend e me tornar um profissional competitivo no mercado. Sempre com vontade de aprender e fazer a diferença aonde eu estiver. <br><br>Fique a vontade para dar uma olhada nos projetos que estou desenvolvendo atualmente e aqueles que ja estão prontos. <br><br><br>Qualquer dúvida, sugestão ou colaboração, não hesite em perguntar ou entrar em contato.😉</p>
+<p align="left">✨ Meu nome é Vinícius, sou desenvolvedor Backend Junior e  estudante de Análise e Desenvolvimento de Sistemas(ADS) na universidade Católica de Brasília(UCB).<br><br>📚 Atualmente estudo e crio alguns projetos Back-end que resolvem alguns problemas simples de rotina. Desenvolvo principalmente em Java e suas ferramentas.<br><br>🎯 Meu objetivo é me desenvolver como um programador Full-Stack com profissionalização no Backend. Sempre com vontade de aprender e fazer a diferença aonde quer que esteja.<br><br><br>Fique a vontade para dar uma olhada nos projetos que estou desenvolvendo atualmente e aqueles que ja estão prontos.<br>Qualquer dúvida, sugestão ou colaboração, não hesite em perguntar ou entrar em contato.😉</p>
 
 ###
 
-<h2 align="left">Tecnologias que utilizo</h2>
+<h2 align="center">⚒️Main Tools</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
 
 ###
 
-<h3 align="left">Estatísticas</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V1N1NUNES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V1N1NUNES&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<h2 align="center">🔥Stats</h2>
 
 ###
 
-<h1 align="left">Contatos</h1>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/nun3s-v1n1c1us" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:vinicius.nuneswork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5561981545450" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/vininunes.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=V1N1NUNES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V1N1NUNES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V1N1NUNES&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

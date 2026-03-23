@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">⚒️Main Tools</h2>
+<h3 align="left">⚒️MAIN TOOLS</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -30,15 +30,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/V1N1NUNES/V1N1NUNES/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h2 align="center">🔥Stats</h2>
+<h3 align="left">🔥STATS</h3>
 
 ###
 

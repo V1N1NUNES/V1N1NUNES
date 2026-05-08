@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏾‍💻Vinícius Costa Nunes
 ✨ Meu nome é Vinícius, sou desenvolvedor Backend Junior e estudante de Análise e Desenvolvimento de Sistemas(ADS) na universidade Católica de Brasília(UCB).<br><br>📚 Atualmente estudo e crio alguns projetos Back-end que resolvem alguns problemas simples de rotina. Desenvolvo principalmente em Java e suas ferramentas.<br><br>🎯 Meu objetivo é me desenvolver como um programador Full-Stack com profissionalização no Backend. Sempre com vontade de aprender e fazer a diferença aonde quer que esteja.<br><br><br>Fique a vontade para dar uma olhada nos projetos que estou desenvolvendo atualmente e aqueles que ja estão prontos.<br>Qualquer dúvida, sugestão ou colaboração, não hesite em perguntar ou entrar em contato.😉
 
 
